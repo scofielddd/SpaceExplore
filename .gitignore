@@ -1,0 +1,29 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+.vs/
+
+# OS generated files
+.DS_Store
+
+# Plastic SCM (if applicable)
+.plastic/
+
+# Ignore large asset folder
+Assets/Exo-planets - NovaShade/Sources Files/Textures/Clouds_Light.tga
+Assets/Exo-planets - NovaShade/Sources Files/Textures/Clouds_Average.tga
+Assets/TerrainTexturesPackFree/
